@@ -1,3 +1,7 @@
+# Elden Ring Build and Inventory Planner
+
+[Design doc](https://docs.google.com/document/d/14XD4S9e16xVdYQpcpeB4kXjnPkecZF74Lw4WD_P95rw/edit?usp=sharing)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
